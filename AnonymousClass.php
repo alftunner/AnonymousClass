@@ -19,3 +19,5 @@ class Container
         };
     }
 }
+
+(new Container)->anonym()->print(); // result: Класс Container (1)
